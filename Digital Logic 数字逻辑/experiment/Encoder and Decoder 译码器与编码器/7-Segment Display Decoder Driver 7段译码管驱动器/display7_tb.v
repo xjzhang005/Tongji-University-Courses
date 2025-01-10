@@ -1,0 +1,63 @@
+`timescale 1ns / 1ns
+module display7_tb;
+reg [3:0] iData;
+wire [6:0] oData;
+display7 uut (.iData(iData),.oData(oData));
+initial 
+begin 
+iData[0]=1;
+iData[1]=1;
+iData[2]=1;
+iData[3]=1;
+#20
+iData[0]=0;
+iData[1]=0;
+iData[2]=0;
+iData[3]=0;
+#20
+iData[0]=1;
+iData[1]=0;
+iData[2]=0;
+iData[3]=0;
+#20
+iData[0]=0;
+iData[1]=1;
+iData[2]=0;
+iData[3]=0;
+#20
+iData[0]=1;
+iData[1]=1;
+iData[2]=0;
+iData[3]=0;
+#20
+iData[0]=0;
+iData[1]=0;
+iData[2]=1;
+iData[3]=0;
+#20
+iData[0]=1;
+iData[1]=0;
+iData[2]=1;
+iData[3]=0;
+#20
+iData[0]=0;
+iData[1]=1;
+iData[2]=1;
+iData[3]=0;
+#20
+iData[0]=1;
+iData[1]=1;
+iData[2]=1;
+iData[3]=0;
+#20
+iData[0]=0;
+iData[1]=0;
+iData[2]=0;
+iData[3]=1;
+#20
+iData[0]=1;
+iData[1]=0;
+iData[2]=0;
+iData[3]=1;
+end
+endmodule
