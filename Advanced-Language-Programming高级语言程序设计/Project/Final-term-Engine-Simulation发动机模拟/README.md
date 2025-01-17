@@ -123,7 +123,7 @@
 ## 产业提示
 ### 关于EICAS  
 EICAS用于飞机的发动机指示和告警显示画面，它用于飞机的发动机指示和告警显示画面，用于显示飞机发动机的状态参数和襟翼与起落架的位置。主要包括以下功能：发动机指示、增压系统指示、燃油量指示、CAS信息指示、副翼/水平安定面/方向舵配平指示等。我们相当于进行了其中一小部分的开发，其界面如下：  
-[Demo](https://github.com/xjzhang005/Tongji-University-Courses/Advanced Language Programming 高级语言程序设计/Project/Final-term Engine Simulation 发动机模拟/assets/demo.png)
+[Demo](https://github.com/xjzhang005/Tongji-University-Courses/Advanced-Language-Programming高级语言程序设计/Project/Final-term-Engine-Simulation发动机模拟/assets/demo.png)
 > 但这也不是他的完整界面...
 
 ### 产业的代码要求  
