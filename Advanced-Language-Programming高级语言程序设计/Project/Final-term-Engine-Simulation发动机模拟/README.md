@@ -4,7 +4,7 @@
 
 
 
-> If you find my work useful, please consider starring this project and following me: [**Personal Page**](https://github.com/xjzhang005)
+> If you find my work useful, please star this project and follow us: [**Personal Page**](https://github.com/xjzhang005)
 
 
 # 📋 Demand 
@@ -191,7 +191,7 @@ engine-system
 
 
 # 🗣️ Acknowledgements
-If you find my work useful, please consider starring this project and following me:
+If you find my work useful, please star this project and follow us:
 [**Personal Page**](https://github.com/xjzhang005)
 
 
